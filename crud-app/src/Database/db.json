@@ -1,0 +1,18 @@
+{
+    "avengers": [
+        {
+            "name": "Tony Stark",
+             "username": "tony",
+             "email": "tony@avenger.com",
+             "power": "builds robots",
+             "id": "1"
+        },
+        {
+            "name": "Captain America",
+             "username": "cap",
+             "email": "cap@avenger.com",
+             "power": "titanium shield",
+             "id": "2"
+        }
+    ]
+}
